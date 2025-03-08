@@ -1,1 +1,1 @@
-print ("Have A Great Day!")
+print ("Hello, World!")
